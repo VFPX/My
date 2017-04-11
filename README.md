@@ -15,7 +15,7 @@ The My folder contains a help file, My.chm, that describes setup and usage of My
 Learn more about My in this Code Magazine article by Doug Hennig:
 [http://www.code-magazine.com/Article.aspx?quickid=0703082](http://www.code-magazine.com/Article.aspx?quickid=0703082)
 
-My is part of Sedna, a collection of libraries, samples and add-ons to Visual FoxPro 9.0 SP2.
+My is part of [Sedna](https://github.com/VFPX/Sedna), a collection of libraries, samples and add-ons to Visual FoxPro 9.0 SP2.
 
 **2015.01.23 Release**  
 The following issues were fixed:
